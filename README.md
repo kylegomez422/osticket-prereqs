@@ -50,7 +50,7 @@ Embarking on a journey to expand my technical skill set, I undertook the task of
 <br />
 
 <p>
-<img src="![image](https://github.com/kylegomez422/osticket-prereqs/assets/142747723/d77a1d8a-7eab-412a-86f8-6752aa0132b7)
+<img src="[![image](https://github.com/kylegomez422/osticket-prereqs/assets/142747723/d77a1d8a-7eab-412a-86f8-6752aa0132b7)](https://imgur.com/a/DnXz5bt)
 "/>
 </p>
 <p>
